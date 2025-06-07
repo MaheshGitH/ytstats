@@ -9,19 +9,11 @@ React, Tailwind CSS, Figma (UI Design)
 
 ## ✨ Features
 
-## Tech Stack ⚙️
-
-React, Tailwind CSS, Figma (UI Design)
-
-## Features 🔗
-
 - Displays real-time YouTube channel stats: subscribers, views, and video count
 - Clean UI designed in Figma
 - Deployed using Netlify
 
 ## 📷 Screenshots
-
-## Screenshots 📷
 
 #### Landing page:
 
